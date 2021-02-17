@@ -9,7 +9,7 @@ Report:
 Pylkkanen_Independent_Study.pdf
 ---------------
 
-MATLAB:
+MATLAB Scripts:
 ---------------
 obj.m  -  Objective Function
 linesearch.m  -  Line-Search Function
